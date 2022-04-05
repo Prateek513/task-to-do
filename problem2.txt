@@ -1,0 +1,8 @@
+/*Please refer to these comments for problem2
+let name="john"
+alert( `hello ${1}` ); 
+alert( `hello ${"name"}` );
+alert( `hello ${name}` ); */
+The first alert will show "hello 1"
+The second alert will show "hello name"
+The third alert will show "hello john"
