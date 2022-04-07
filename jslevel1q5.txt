@@ -1,0 +1,13 @@
+<!DOCTYPE.html>
+<html>
+    <head>
+        <title> JS TASK </title></head>
+        <body>
+            <h1>WELCOME TO A WHOLE NEW WORLD </h1>
+            <script>
+                let a= prompt("Enter Your Name","CAPS PLEASE");
+               console.log(a);
+            </script>
+        </body>
+
+</html>
